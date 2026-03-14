@@ -1,3 +1,8 @@
 {
-  "WIZARD_PORTAL_MEMENTO": "Memento has been traded,\nacquirer is displayed using iREM"
+  "WIZARD_PORTAL_MEMENTO": "§7Memento has been traded,\n§7acquirer is displayed using iREM",
+  "CENTURY_MEMENTO_RED": "§cTaste of red velvet.\n\n§7Memento has been traded,\n§7acquirer is displayed using iREM",
+  "CENTURY_MEMENTO_YELLOW": "§eTaste of lemon cheesecake.\n\n§7Memento has been traded,\n§7acquirer is displayed using iREM",
+  "CENTURY_MEMENTO_GREEN": "§aTaste of green lime.\n\n§7Memento has been traded,\n§7acquirer is displayed using iREM",
+  "CENTURY_MEMENTO_BLUE": "§9Taste of blueberry.\n\n§7Memento has been traded,\n§7acquirer is displayed using iREM",
+  "CENTURY_MEMENTO_PINK": "§dTaste of strawberry.\n\n§7Memento has been traded,\n§7acquirer is displayed using iREM"
 }
